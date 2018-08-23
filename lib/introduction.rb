@@ -1,2 +1,3 @@
-def introduction
+def introduction (phrase, name)
+  
 end
