@@ -1,5 +1,4 @@
 def introduction (name)
+put "Hi, my name is" name "."
 end
-put "Hi, my name is" introduction "."
-end
-end 
+introduction (Josh)
