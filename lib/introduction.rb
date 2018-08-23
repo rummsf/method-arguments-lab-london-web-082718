@@ -1,7 +1,5 @@
-def introduction (phrase, name)
-  puts phrase + name + "."
+def introduction (name)
 end
-end
-introduction ("Hi, my name is", Josh)
+"Hi, my name is" introduction "."
 end
 end 
